@@ -1,8 +1,8 @@
 name: reproducible-science-tools
 channels:
-	- conda-forge
-	- defaults
+  - conda-forge
+  - defaults
 dependencies:
-	- numpy=1.14
-	- matplotlib=2.2.3
-	- pandas=1.14.3
+  - numpy=1.14
+  - matplotlib=2.2.3
+  - pandas=1.14.3
